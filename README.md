@@ -47,6 +47,8 @@ Curation of papers is generally based on the recent publication in top AI confen
 ### Others
 - **Gemello: Creating a Detailed Energy Breakdown from just the Monthly Electricity Bill** [[pdf]](https://www.kdd.org/kdd2016/papers/files/adp1036-batraA.pdf)
   - Nipun Batra, Amarjeet Singh, Kamin Whitehouse. *KDD'16*
+- **Disambiguating Energy Disaggregation: A Collective Probabilistic Approach** [[pdf]](https://www.ijcai.org/proceedings/2017/0398.pdf)
+  - Sabina Tomkins, Jay Pujara, Lise Getoor. *IJCAI'17*
 - **Matrix Factorisation for Scalable Energy Breakdown** [[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14885/14054)
   - Nipun Batra, Hongning Wang, Amarjeet Singh, Kamin Whitehouse. *AAAI'17*
 - **Transferring Decomposed Tensors for Scalable Energy Breakdown across Regions** [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16858/15754)
