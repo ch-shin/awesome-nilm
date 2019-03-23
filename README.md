@@ -41,6 +41,8 @@ Curation of papers is generally based on the recent publication in top AI confen
   - Jack Kelly, William Knottenbelt. *BuildSys'15* 
 - **Sequence-to-point learning with neural networks for non-intrusive load monitoring** [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16623/15980)
   - Chaoyun Zhang, Mingjun Zhong, Zongzuo Wang, Nigel Goddard, Charles Sutton. *AAAI'18*
+- **Deep Latent Generative Models For Energy Disaggregation** [[pdf]](https://www.aaai.org/Papers/AAAI/2019/AAAI-BejaranoG.1181.pdf)
+  - Gissella Bejarano, David DeFazio, Arti Ramesh. *AAAI'19*
 - **Subtask Gated Networks for Non-Intrusive Load Monitoring** [[pdf]](https://arxiv.org/pdf/1811.06692.pdf)
   - Changho Shin, Sunghwan Joo, Jaeryun Yim, Hyoseop Lee, Taesup Moon, Wonjong Rhee. *AAAI'19*
 
