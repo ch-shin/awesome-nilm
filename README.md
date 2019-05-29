@@ -45,6 +45,14 @@ Curation of papers is generally based on the recent publication in top AI confen
   - Gissella Bejarano, David DeFazio, Arti Ramesh. *AAAI'19*
 - **Subtask Gated Networks for Non-Intrusive Load Monitoring** [[pdf]](https://arxiv.org/pdf/1811.06692.pdf)
   - Changho Shin, Sunghwan Joo, Jaeryun Yim, Hyoseop Lee, Taesup Moon, Wonjong Rhee. *AAAI'19*
+- **Wavenilm: A causal neural network for power disaggregation from the complex power signal** [[pdf]](https://arxiv.org/pdf/1902.08736.pdf)
+  - Alon Harell, Stephen Makonin, Ivan V. Bajić. *ICASSP'19*
+- **Neural Variational Identification and Filtering for Stochastic Non-linear Dynamical Systems with Application to Non-intrusive Load Monitoring**
+  - Henning Lange, Mario Berges, Zico Kolter. *ICASSP'19*
+- **Multi Label Restricted Boltzmann Machine for Non-intrusive Load Monitoring**
+  - Sagar Verma, Shikha Singh, Angshul Majumdar. *ICASSP'19*
+- **Bayesian-optimized Bidirectional LSTM Regression Model for Non-intrusive Load Monitoring**
+  - Maria Kaselimi, Nikolaos Doulamis, Anastasios Doulamis, Athanasios Voulodimos, Eftychios Protopapadakis. *ICASSP'19*
 
 ### Others
 - **Gemello: Creating a Detailed Energy Breakdown from just the Monthly Electricity Bill** [[pdf]](https://www.kdd.org/kdd2016/papers/files/adp1036-batraA.pdf)
