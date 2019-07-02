@@ -51,7 +51,7 @@ Curation of papers is generally based on the recent publication in top AI confen
   - Henning Lange, Mario Berges, Zico Kolter. *ICASSP'19*
 - **Multi Label Restricted Boltzmann Machine for Non-intrusive Load Monitoring** [[link]](https://ieeexplore.ieee.org/document/8682860)
   - Sagar Verma, Shikha Singh, Angshul Majumdar. *ICASSP'19*
-- **Bayesian-optimized Bidirectional LSTM Regression Model for Non-intrusive Load Monitoring** [[link]] (https://ieeexplore.ieee.org/document/8683110)
+- **Bayesian-optimized Bidirectional LSTM Regression Model for Non-intrusive Load Monitoring** [[link]](https://ieeexplore.ieee.org/document/8683110)
   - Maria Kaselimi, Nikolaos Doulamis, Anastasios Doulamis, Athanasios Voulodimos, Eftychios Protopapadakis. *ICASSP'19*
 
 ### Others
