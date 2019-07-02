@@ -47,11 +47,11 @@ Curation of papers is generally based on the recent publication in top AI confen
   - Changho Shin, Sunghwan Joo, Jaeryun Yim, Hyoseop Lee, Taesup Moon, Wonjong Rhee. *AAAI'19*
 - **Wavenilm: A causal neural network for power disaggregation from the complex power signal** [[pdf]](https://arxiv.org/pdf/1902.08736.pdf)
   - Alon Harell, Stephen Makonin, Ivan V. Bajić. *ICASSP'19*
-- **Neural Variational Identification and Filtering for Stochastic Non-linear Dynamical Systems with Application to Non-intrusive Load Monitoring**
+- **Neural Variational Identification and Filtering for Stochastic Non-linear Dynamical Systems with Application to Non-intrusive Load Monitoring** [[link]](https://ieeexplore.ieee.org/document/8683552)
   - Henning Lange, Mario Berges, Zico Kolter. *ICASSP'19*
-- **Multi Label Restricted Boltzmann Machine for Non-intrusive Load Monitoring**
+- **Multi Label Restricted Boltzmann Machine for Non-intrusive Load Monitoring** [[link]](https://ieeexplore.ieee.org/document/8682860)
   - Sagar Verma, Shikha Singh, Angshul Majumdar. *ICASSP'19*
-- **Bayesian-optimized Bidirectional LSTM Regression Model for Non-intrusive Load Monitoring**
+- **Bayesian-optimized Bidirectional LSTM Regression Model for Non-intrusive Load Monitoring** [[link]] (https://ieeexplore.ieee.org/document/8683110)
   - Maria Kaselimi, Nikolaos Doulamis, Anastasios Doulamis, Athanasios Voulodimos, Eftychios Protopapadakis. *ICASSP'19*
 
 ### Others
