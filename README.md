@@ -74,6 +74,7 @@ Curation of papers is generally based on the recent publication in top AI confen
 - HES [[link]](http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&ProjectID=17359&FromSearch=Y&Publisher=1&SearchText=EV0702&SortString=ProjectCode&SortOrder=Asc&Paging=10#Description)
 - Tracebase [[link]](https://github.com/areinhardt/tracebase)
 - PLAID [[link]](http://www.plaidplug.com/)
+- ENERTALK [[link]](https://www.nature.com/articles/s41597-019-0212-5)
 
 ## Toolkits
 - NILM-Eval [[codes]](https://github.com/beckel/nilm-eval)
