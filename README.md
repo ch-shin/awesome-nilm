@@ -2,15 +2,19 @@
 
 ![image](https://user-images.githubusercontent.com/28736511/51742581-80aa0c80-20dd-11e9-8ed9-b591a79442a3.png)
 
-A curated list of NILM (also known as Load Disaggregation) resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), [awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning/) and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search).
+A curated list of NILM (also known as Energy Disaggregation or Load Disaggregation) resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), [awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning/) and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search).
 
 Curation of papers is generally based on the recent publication in top AI confenrences (NIPS, ICML, ICLR, AAAI, KDD, etc.) or the impactfulness on NILM domain. But the criteria is not strict. Please feel free to [pull requests](https://github.com/ch-shin/awesome-nilm/pulls) or [open an issue](https://github.com/ch-shin/awesome-nilm/issues) if you know awesome NILM resources.
 
 
 ## Papers
 
-### Reviews
 
+### Original paper
+- **Nonintrusive appliance load monitoring** (1992), G.W. Hart [[link]](https://ieeexplore.ieee.org/document/192069)
+
+
+### Reviews
 - **Nonintrusive appliance load monitoring: Review and outlook** [[pdf]](https://www.researchgate.net/publication/224225559_Nonintrusive_Appliance_Load_Monitoring_Review_and_Outlook)
   - M Zeifman, K Roth. IEEE transactions on Consumer Electronics, 2011
 - **Non-Intrusive Load Monitoring Approaches for Disaggregated Energy Sensing: A Survey** [[pdf]](https://www.mdpi.com/1424-8220/12/12/16838)
@@ -23,10 +27,6 @@ Monitoring: an Up-to-Date Overview** [[pdf]](https://www.researchgate.net/profil
 - **Machine learning approaches for non-intrusive load monitoring: from qualitative to quantitative comparation, Artificial Intelligence Review** [[pdf]](https://intelligence.csd.auth.gr/publications/machine-learning-approaches-for-non-intrusive-load-monitoring-from-qualitative-to-quantitative-comparation/)
   - C Nalmpantis, D Vrakas. Artificial Intelligence Review, 2019
 
-
-### Papers on NILM Algorithms
-
-- **Nonintrusive appliance load monitoring** (1992), G.W. Hart [[link]](https://ieeexplore.ieee.org/document/192069)
 
 #### HMM
 - **Unsupervised Disaggregation of Low Frequency Power Measurements** [[pdf]](http://hanj.cs.illinois.edu/pdf/sdm11_hkim.pdf)
@@ -52,6 +52,7 @@ Monitoring: an Up-to-Date Overview** [[pdf]](https://www.researchgate.net/profil
   - Matt Wytock, Zico Kolter. *AAAI'14*
 - **Energy Disaggregation via Learning ‘Powerlets’ and Sparse Coding** [[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9791/9306)
   - Ehsan Elhamifar, Shankar Sastry. *AAAI'15*
+  
 
 #### DNN
 - **Neural nilm: Deep neural networks applied to energy disaggregation** [[pdf]](http://jack-kelly.com/files/writing/neural_nilm.pdf)
@@ -76,16 +77,12 @@ Monitoring: an Up-to-Date Overview** [[pdf]](https://www.researchgate.net/profil
   - Nipun Batra, Amarjeet Singh, Kamin Whitehouse. *KDD'16*
 - **Disambiguating Energy Disaggregation: A Collective Probabilistic Approach** [[pdf]](https://www.ijcai.org/proceedings/2017/0398.pdf)
   - Sabina Tomkins, Jay Pujara, Lise Getoor. *IJCAI'17*
-- **On the Applicability of Correlation Filters for Appliance Detection in Smart Meter Readings** [[pdf]](http://mobile.nes.aau.at/publications/klemenjak-2017-Correlation_Filters.pdf)
-  - C Klemenjak, W Elmenreich - 2017 IEEE International Conference on Smart Grid …, 2017
 - **Matrix Factorisation for Scalable Energy Breakdown** [[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14885/14054)
   - Nipun Batra, Hongning Wang, Amarjeet Singh, Kamin Whitehouse. *AAAI'17*
 - **Transferring Decomposed Tensors for Scalable Energy Breakdown across Regions** [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16858/15754)
   - Nipun Batra, Yiling Jia, Honging Wang, Kamin Whitehouse. *AAAI'18*
 
 ### Papers on Performance Evaluation
-
-
 - **Nonintrusive load monitoring (NILM) performance evaluation** [[pdf]](https://link.springer.com/article/10.1007/s12053-014-9306-2)
   - S Makonin, F Popowich. Energy Efficiency, 2015
 - **Performance evaluation in non-intrusive load monitoring: Datasets, metrics, and tools-A review** [[pdf]](https://www.researchgate.net/publication/325294847_Performance_evaluation_in_non-intrusive_load_monitoring_Datasets_metrics_and_tools-A_review)
@@ -97,7 +94,6 @@ Monitoring: an Up-to-Date Overview** [[pdf]](https://www.researchgate.net/profil
 
 - **Position Paper: Electricity Consumption Data Sets: Pitfalls and Opportunities** [[pdf]](http://makonin.com/doc/BuildSys_2019.pdf)
   - C Klemenjak, A Reihardt, L Pereira, S Makoni, M Berges, W Elmenreich. ACM BuildSys. 2019
-
 
 ### Real Datasets
 
@@ -123,30 +119,7 @@ Monitoring: an Up-to-Date Overview** [[pdf]](https://www.researchgate.net/profil
 - NILMTK [[pdf]](https://arxiv.org/pdf/1404.3878v1.pdf) [[code]](https://github.com/nilmtk/nilmtk)
   - Recently: NILMTK-Contrib [[pdf]](https://nipunbatra.github.io/papers/batra_buildsys_19.pdf) [[code]](https://github.com/nilmtk/nilmtk-contrib)
 
-## Low-Cost Energy Meters
-
-- YoMoPie: A User-Oriented Energy Monitor to
-Enhance Energy Efficiency in Households [[pdf]](http://mobile.nes.aau.at/publications/klemenjak-2018-yomopie.pdf) [[code]](https://github.com/klemenjak/yomopie/)
-
-## Conferences, Journals, and Workshops
-
-### Conferences
-
-- AAAI
-- ACM e-Energy
-- ACM BuildSys
-- IEEE SmartGridComm
-- DACH+ Energy Informatics
-
-
-### Journals
-
-- IEEE Transactions on Smart Grid
-- IEEE Transactions on Instrumentation and Measurements
-- IEEE Transactions on Industrial Informatics
-
-### Workshops
-
+## Workshops
 - EU NILM Workshop [[website]](http://www.nilm.eu/)
 - International NILM Workshop [[website]](http://nilmworkshop.org/)
 
