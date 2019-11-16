@@ -87,6 +87,9 @@ Monitoring: an Up-to-Date Overview** [[pdf]](https://www.researchgate.net/profil
   - S Makonin, F Popowich. Energy Efficiency, 2015
 - **Performance evaluation in non-intrusive load monitoring: Datasets, metrics, and tools-A review** [[pdf]](https://www.researchgate.net/publication/325294847_Performance_evaluation_in_non-intrusive_load_monitoring_Datasets_metrics_and_tools-A_review)
   - L Pereira, N Nunes. Wiley Interdisciplinary Reviews: Data Mining and …, 2018
+- **Towards Comparability in Non-Intrusive Load Monitoring: On Data and Performance Evaluation** [[pdf]](http://makonin.com/doc/ISGT-NA_2020b.pdf)
+  - C Klemenjak, S Makonin, and W Elmenreich. 2020 IEEE Power & Energy Society Innovative
+Smart Grid Technologies Conference (ISGT), 2020
 
 ## Public Datasets
 
