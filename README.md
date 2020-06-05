@@ -81,6 +81,8 @@ Monitoring: an Up-to-Date Overview** [[pdf]](https://www.researchgate.net/profil
   - Nipun Batra, Hongning Wang, Amarjeet Singh, Kamin Whitehouse. *AAAI'17*
 - **Transferring Decomposed Tensors for Scalable Energy Breakdown across Regions** [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16858/15754)
   - Nipun Batra, Yiling Jia, Honging Wang, Kamin Whitehouse. *AAAI'18*
+- **Non-Intrusive Load Disaggregation by Convolutional Neural Network and Multilabel Classification.** [[pdf]](https://www.mdpi.com/2076-3417/9/17/3558/pdf)[[code]](https://github.com/lmssdd/TPNILM)
+  - Luca Massidda, Marino Marrocu, and Simone Manca. *Applied Sciences 10.4 (2020): 1454.*
 
 ### Papers on Performance Evaluation
 - **Nonintrusive load monitoring (NILM) performance evaluation** [[pdf]](https://link.springer.com/article/10.1007/s12053-014-9306-2)
