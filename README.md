@@ -52,6 +52,8 @@ Monitoring: an Up-to-Date Overview** [[pdf]](https://www.researchgate.net/profil
   - Matt Wytock, Zico Kolter. *AAAI'14*
 - **Energy Disaggregation via Learning ‘Powerlets’ and Sparse Coding** [[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9791/9306)
   - Ehsan Elhamifar, Shankar Sastry. *AAAI'15*
+- **Independent-Variation Matrix Factorization With Application to Energy Disaggregation** [[link]](https://ieeexplore.ieee.org/document/8836542)
+  - SImon Henriet, Umut Simsekli, Sergio Dos Santos, Benoit Fuentes, Gaël Richard. *IEEE SPL 2019* & *ICASSP'20*.
   
 
 #### DNN
