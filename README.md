@@ -4,7 +4,7 @@
 
 A curated list of NILM (also known as Energy Disaggregation or Load Disaggregation) resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), [awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning/) and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search).
 
-Curation of papers is generally based on the recent publication in top AI confenrences (NIPS, ICML, ICLR, AAAI, KDD, etc.) or the impactfulness on NILM domain. But the criteria is not strict. Please feel free to [pull requests](https://github.com/ch-shin/awesome-nilm/pulls) or [open an issue](https://github.com/ch-shin/awesome-nilm/issues) if you know awesome NILM resources.
+Curation of papers is generally based on the recent publication in top AI conferences (NeurIPS, ICML, ICLR, AAAI, KDD, etc.) or the impactfulness on NILM domain. But the criteria is not strict. Please feel free to [pull requests](https://github.com/ch-shin/awesome-nilm/pulls) or [open an issue](https://github.com/ch-shin/awesome-nilm/issues) if you know awesome NILM resources.
 
 
 ## Papers
@@ -52,6 +52,8 @@ Monitoring: an Up-to-Date Overview** [[pdf]](https://www.researchgate.net/profil
   - Matt Wytock, Zico Kolter. *AAAI'14*
 - **Energy Disaggregation via Learning ‘Powerlets’ and Sparse Coding** [[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9791/9306)
   - Ehsan Elhamifar, Shankar Sastry. *AAAI'15*
+- **Independent-Variation Matrix Factorization With Application to Energy Disaggregation** [[link]](https://ieeexplore.ieee.org/document/8836542)
+  - Simon Henriet, Umut Simsekli, Sergio Dos Santos, Benoit Fuentes, Gaël Richard. *IEEE SPL 2019* & *ICASSP'20*.
   
 
 #### DNN
