@@ -59,7 +59,7 @@ Monitoring: an Up-to-Date Overview** [[pdf]](https://www.researchgate.net/profil
 #### DNN
 - **Neural nilm: Deep neural networks applied to energy disaggregation** [[pdf]](http://jack-kelly.com/files/writing/neural_nilm.pdf)
   - Jack Kelly, William Knottenbelt. *BuildSys'15*
-- **Sequence-to-point learning with neural networks for non-intrusive load monitoring** [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16623/15980)
+- **Sequence-to-point learning with neural networks for non-intrusive load monitoring** [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16623/15980) [[code]](https://github.com/MingjunZhong/seq2point-nilm)
   - Chaoyun Zhang, Mingjun Zhong, Zongzuo Wang, Nigel Goddard, Charles Sutton. *AAAI'18*
 - **Deep Latent Generative Models For Energy Disaggregation** [[pdf]](https://www.aaai.org/Papers/AAAI/2019/AAAI-BejaranoG.1181.pdf)
   - Gissella Bejarano, David DeFazio, Arti Ramesh. *AAAI'19*
