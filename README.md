@@ -26,6 +26,10 @@ Monitoring: an Up-to-Date Overview** [[pdf]](https://www.researchgate.net/profil
   - C Klemenjak, P Goldsborough. arXiv preprint arXiv:1610.01191, 2016
 - **Machine learning approaches for non-intrusive load monitoring: from qualitative to quantitative comparation, Artificial Intelligence Review** [[pdf]](https://intelligence.csd.auth.gr/publications/machine-learning-approaches-for-non-intrusive-load-monitoring-from-qualitative-to-quantitative-comparation/)
   - C Nalmpantis, D Vrakas. Artificial Intelligence Review, 2019
+- **A Review on Non-intrusive Load Monitoring Approaches Based on Machine Learning** [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-42726-9_5)
+  - H Salem, M Sayed-Mouchaweh and M Tagina. Artificial Intelligence Techniques for a Scalable Energy Transition, 2020
+- **Energy management using non-intrusive load monitoring techniques – State-of-the-art and future research directions** [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S2210670720306326)
+  - R Gopinath, M Kumar, C Prakash Chandra Joshua, and K Srinivas. Sustainable Cities and Society, 2020
 
 
 #### HMM
@@ -54,7 +58,7 @@ Monitoring: an Up-to-Date Overview** [[pdf]](https://www.researchgate.net/profil
   - Ehsan Elhamifar, Shankar Sastry. *AAAI'15*
 - **Independent-Variation Matrix Factorization With Application to Energy Disaggregation** [[link]](https://ieeexplore.ieee.org/document/8836542)
   - Simon Henriet, Umut Simsekli, Sergio Dos Santos, Benoit Fuentes, Gaël Richard. *IEEE SPL 2019* & *ICASSP'20*.
-  
+
 
 #### DNN
 - **Neural nilm: Deep neural networks applied to energy disaggregation** [[pdf]](http://jack-kelly.com/files/writing/neural_nilm.pdf)
@@ -92,6 +96,8 @@ Monitoring: an Up-to-Date Overview** [[pdf]](https://www.researchgate.net/profil
 - **Towards Comparability in Non-Intrusive Load Monitoring: On Data and Performance Evaluation** [[pdf]](http://makonin.com/doc/ISGT-NA_2020b.pdf)
   - C Klemenjak, S Makonin, and W Elmenreich. 2020 IEEE Power & Energy Society Innovative
 Smart Grid Technologies Conference (ISGT), 2020
+- **How does Load Disaggregation Performance Depend on Data Characteristics? Insights from a Benchmarking Study.** [[pdf]](https://www.areinhardt.de/publications/2020/Reinhardt_eEnergy_2020.pdf)
+    - A Reinhardt and C Klemenjak. ACM International Conference on Future Energy Systems (e-Energy), 2020
 
 ## Public Datasets
 
