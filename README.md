@@ -79,6 +79,8 @@ Monitoring: an Up-to-Date Overview** [[pdf]](https://www.researchgate.net/profil
   - Maria Kaselimi, Nikolaos Doulamis, Anastasios Doulamis, Athanasios Voulodimos, Eftychios Protopapadakis. *ICASSP'19*
 - **Self-supervised learning of appliance usage** [[link]](https://openreview.net/forum?id=B1lJzyStvS)
   - Chen-Yu Hsu, Abbas Zeitoun, Guang-He Lee, Dina Katabi, Tommi Jaakkola, *ICLR'20*
+- **Improving Non-Intrusive Load Disaggregation through an Attention-Based Deep Neural Network** [[pdf]](https://www.mdpi.com/1996-1073/14/4/847)
+  - V. Piccialli and A. M. Sudoso. *Energies*, 2021
 
 #### Others
 - **Gemello: Creating a Detailed Energy Breakdown from just the Monthly Electricity Bill** [[pdf]](https://www.kdd.org/kdd2016/papers/files/adp1036-batraA.pdf)
