@@ -120,6 +120,7 @@ Smart Grid Technologies Conference (ISGT), 2020
 - Tracebase [[link]](https://github.com/areinhardt/tracebase)
 - PLAID [[link]](https://www.nature.com/articles/s41597-020-0389-7)
 - ENERTALK [[link]](https://www.nature.com/articles/s41597-019-0212-5)
+- IDEAL [[link]](https://www.nature.com/articles/s41597-021-00921-y)
 
 ### Synthetic Datasets
 
