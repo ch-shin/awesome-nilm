@@ -79,6 +79,8 @@ Monitoring: an Up-to-Date Overview** [[pdf]](https://www.researchgate.net/profil
   - Maria Kaselimi, Nikolaos Doulamis, Anastasios Doulamis, Athanasios Voulodimos, Eftychios Protopapadakis. *ICASSP'19*
 - **Self-supervised learning of appliance usage** [[link]](https://openreview.net/forum?id=B1lJzyStvS)
   - Chen-Yu Hsu, Abbas Zeitoun, Guang-He Lee, Dina Katabi, Tommi Jaakkola, *ICLR'20*
+- **Improving Non-Intrusive Load Disaggregation through an Attention-Based Deep Neural Network** [[pdf]](https://www.mdpi.com/1996-1073/14/4/847)
+  - V. Piccialli and A. M. Sudoso. *Energies*, 2021
 
 #### Others
 - **Gemello: Creating a Detailed Energy Breakdown from just the Monthly Electricity Bill** [[pdf]](https://www.kdd.org/kdd2016/papers/files/adp1036-batraA.pdf)
@@ -89,6 +91,8 @@ Monitoring: an Up-to-Date Overview** [[pdf]](https://www.researchgate.net/profil
   - Nipun Batra, Hongning Wang, Amarjeet Singh, Kamin Whitehouse. *AAAI'17*
 - **Transferring Decomposed Tensors for Scalable Energy Breakdown across Regions** [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16858/15754)
   - Nipun Batra, Yiling Jia, Honging Wang, Kamin Whitehouse. *AAAI'18*
+- **Mixed-Integer Nonlinear Programming for State-based Non-Intrusive Load Monitoring** [[link]](https://ieeexplore.ieee.org/document/9714495)
+  - Marco Balletti, Veronica Piccialli, Antonio M. Sudoso. *IEEE Transactions on Smart Grid*, 2022
 
 ### Papers on Performance Evaluation
 - **Nonintrusive load monitoring (NILM) performance evaluation** [[pdf]](https://link.springer.com/article/10.1007/s12053-014-9306-2)
