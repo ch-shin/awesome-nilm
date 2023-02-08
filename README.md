@@ -89,6 +89,8 @@ Monitoring: an Up-to-Date Overview** [[pdf]](https://www.researchgate.net/profil
   - Nipun Batra, Hongning Wang, Amarjeet Singh, Kamin Whitehouse. *AAAI'17*
 - **Transferring Decomposed Tensors for Scalable Energy Breakdown across Regions** [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16858/15754)
   - Nipun Batra, Yiling Jia, Honging Wang, Kamin Whitehouse. *AAAI'18*
+- **On time series representations for multi-label NILM** [[pdf]](https://rdcu.be/b3Vh2)
+  - C Nalmpantis and D Vrakas. NEURAL COMPUTING & APPLICATIONS, 2020
 
 ### Papers on Performance Evaluation
 - **Nonintrusive load monitoring (NILM) performance evaluation** [[pdf]](https://link.springer.com/article/10.1007/s12053-014-9306-2)
