@@ -89,6 +89,8 @@ Monitoring: an Up-to-Date Overview** [[pdf]](https://www.researchgate.net/profil
   - Nipun Batra, Hongning Wang, Amarjeet Singh, Kamin Whitehouse. *AAAI'17*
 - **Transferring Decomposed Tensors for Scalable Energy Breakdown across Regions** [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16858/15754)
   - Nipun Batra, Yiling Jia, Honging Wang, Kamin Whitehouse. *AAAI'18*
+- **Taming the Domain Shift in Multi-source Learning for Energy Disaggregation** [[pdf]](https://dl.acm.org/doi/abs/10.1145/3580305.3599910)
+  - Xiaomin Chang, Wei Li, Yunchuan Shi, Albert Y. Zomaya. *KDD'23*
 
 ### Papers on Performance Evaluation
 - **Nonintrusive load monitoring (NILM) performance evaluation** [[pdf]](https://link.springer.com/article/10.1007/s12053-014-9306-2)
@@ -139,6 +141,7 @@ Smart Grid Technologies Conference (ISGT), 2020
 
 ## Further Material
 - NILM wiki [[link]](http://wiki.nilm.eu/)
+- awesome-NILM-with-code [[link]](https://github.com/zhgqcn/awesome-NILM-with-code)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
