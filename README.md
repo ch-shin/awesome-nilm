@@ -138,11 +138,9 @@ Smart Grid Technologies Conference (ISGT), 2020
   - Recently: NILMTK-Contrib [[pdf]](https://nipunbatra.github.io/papers/batra_buildsys_19.pdf) [[code]](https://github.com/nilmtk/nilmtk-contrib)
 
 ## Workshops
-- EU NILM Workshop [[website]](http://www.nilm.eu/)
 - International NILM Workshop [[website]](http://nilmworkshop.org/)
 
 ## Further Material
-- NILM wiki [[link]](http://wiki.nilm.eu/)
 - awesome-NILM-with-code [[link]](https://github.com/zhgqcn/awesome-NILM-with-code)
 
 ## License
