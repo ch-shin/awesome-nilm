@@ -79,6 +79,8 @@ Monitoring: an Up-to-Date Overview** [[pdf]](https://www.researchgate.net/profil
   - Maria Kaselimi, Nikolaos Doulamis, Anastasios Doulamis, Athanasios Voulodimos, Eftychios Protopapadakis. *ICASSP'19*
 - **Self-supervised learning of appliance usage** [[link]](https://openreview.net/forum?id=B1lJzyStvS)
   - Chen-Yu Hsu, Abbas Zeitoun, Guang-He Lee, Dina Katabi, Tommi Jaakkola, *ICLR'20*
+- **Disentangling Time Series Representations via Contrastive Independence-of-Support on l-Variational Inference** [[link]](https://openreview.net/pdf?id=iI7hZSczxE)
+  - Khalid Oublal, Said Ladjal, David Benhaiem, Emmanuel LE BORGNE, François Roueff, *ICLR'24*
 
 #### Others
 - **Gemello: Creating a Detailed Energy Breakdown from just the Monthly Electricity Bill** [[pdf]](https://www.kdd.org/kdd2016/papers/files/adp1036-batraA.pdf)
